@@ -74,7 +74,7 @@ export const Sidebar = () => {
             <LogoutIcon className='icon' />
             <span>Logout</span>
           </li>
-        </ul>
+        </ul> 
 
       </div>
       <div className="bottom">
